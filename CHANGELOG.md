@@ -1,5 +1,5 @@
 ## 20200901
-* 编译0819 by yao
+* delete clash
 
 ## 20200819
 * 移除 luci-app-clash
